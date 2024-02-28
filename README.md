@@ -1,5 +1,5 @@
-![image](https://github.com/yeomyaloo/using-s3/assets/81970382/95a14e76-77a7-4cde-8cbf-08ee7ce56c80)# using-s3
-스프링부트 프로젝트를 이용한 s3로의 파일 업로드 방법
+# using-s3
+- 스프링부트 프로젝트로 파일 업로드 엔드 포인트를 만들어서 해당 파일을 S3에 업로드 해보기
 
 # ⛏ Architecture
 ![image](https://github.com/yeomyaloo/using-s3/assets/81970382/67366d36-63d7-4117-9388-58572e497882)
